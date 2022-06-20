@@ -14,7 +14,7 @@ int main() {
   Vektor a; // Punkt auf der Rotationsachse
   std::cout << "Aufpunkt:";
   std::cin >> a;
-  Vektor u; // Richtung der Rotationsachse
+  Vektor u; // Richtung der Rotationsachsee
   std::cout << "Richtung:";
   std::cin >> u;
 
